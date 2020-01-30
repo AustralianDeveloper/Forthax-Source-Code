@@ -3,6 +3,7 @@
 
 ### Information
 * This source code is dated to the **30th of January 2020**.
+* This is the same cheat source that people call "Oracle".
 * I am also including a **hardware spoofer source**, which you must update **yourself.**
 * I will **not** assist you in modifying or using this code.
 
