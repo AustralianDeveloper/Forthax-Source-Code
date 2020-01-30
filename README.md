@@ -12,6 +12,7 @@
 * You do it at your own risk and take the responsibility upon yourself and you are not to blame me.
 
 ### How to update?
+* This source will require more than just a simple update when Epic Games moves Fortnite onto the new Chaos Engine.
 * Gather latest offsets and put them where they should be in the source.
 * If the driver, mapper, cheat or overlay is detected, you must make it undetected.
 * Gather actor IDs by using the Debug Actor ID function. You can update bot ID to fix bot functions.
