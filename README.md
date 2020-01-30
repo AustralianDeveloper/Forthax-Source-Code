@@ -2,9 +2,9 @@
 ## Entire source code to develop a working Fortnite cheat.
 
 ### Information
-This source code is dated to the **30th of January 2020**.
-I am also including a **hardware spoofer source**, which you must update **yourself.**
-I will **not** assist you in modifying or using this code.
+* This source code is dated to the **30th of January 2020**.
+* I am also including a **hardware spoofer source**, which you must update **yourself.**
+* I will **not** assist you in modifying or using this code.
 
 ### Disclaimer
 * I am not responsible for anything that may happen to your computer or Fortnite account by developing or using cheats. 
@@ -17,6 +17,6 @@ I will **not** assist you in modifying or using this code.
 * Gather latest tracking files and update in cleaner.
 
 ### Donate
-BTC: 3JRaHBhL7qEXXiwGxi4F26MTE8HDQVEoZK
-ETH: 0x9387f2320729c0440bAe4744a06EF89b2844e27c
+* BTC: 3JRaHBhL7qEXXiwGxi4F26MTE8HDQVEoZK
+* ETH: 0x9387f2320729c0440bAe4744a06EF89b2844e27c
 
