@@ -1,14 +1,14 @@
 # Forthax Source Code
 ## Entire source code to develop a working Fortnite cheat.
 
-### Information and Disclaimer
+### Information
 This source code is dated to the **30th of January 2020**.
-```
-* I am not responsible for anything that may happen to your computer or Fortnite account by developing or using cheats. 
-* You do it at your own risk and take the responsibility upon yourself and you are not to blame me.
- ```
 I will also include a **hardware spoofer source**, which you must update **yourself.**
 I will **not** assist you in modifying or using this code.
+
+### Disclaimer
+* I am not responsible for anything that may happen to your computer or Fortnite account by developing or using cheats. 
+* You do it at your own risk and take the responsibility upon yourself and you are not to blame me.
 
 ### How to update?
 * Gather latest offsets and put them where they should be in the source.
