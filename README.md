@@ -17,7 +17,6 @@ I will **not** assist you in modifying or using this code.
 * Gather latest tracking files and update in cleaner.
 
 ### Donate
-BTC: ``3JRaHBhL7qEXXiwGxi4F26MTE8HDQVEoZK``
-
-ETH: ``0x9387f2320729c0440bAe4744a06EF89b2844e27c``
+BTC: 3JRaHBhL7qEXXiwGxi4F26MTE8HDQVEoZK
+ETH: 0x9387f2320729c0440bAe4744a06EF89b2844e27c
 
