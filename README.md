@@ -14,7 +14,10 @@ I will **not** assist you in modifying or using this code.
 * Gather latest offsets and put them where they should be in the source.
 * If the driver, mapper, cheat or overlay is detected, you must make it undetected.
 * Gather actor IDs by using the Debug Actor ID function. You can update bot ID to fix bot functions.
+* Gather latest tracking files and update in cleaner.
 
-## Donations
+### Donate
 BTC: ``3JRaHBhL7qEXXiwGxi4F26MTE8HDQVEoZK``
+
 ETH: ``0x9387f2320729c0440bAe4744a06EF89b2844e27c``
+
